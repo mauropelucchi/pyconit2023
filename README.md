@@ -1,4 +1,4 @@
-# Data warehouses meet data lakes @ PYCONIT 2024
+# Data warehouses meet data lakes @ PYCONIT 2023
 ## What is the question?
 
 ![](https://raw.githubusercontent.com/mauropelucchi/pyconit2023/main/logo.png)
